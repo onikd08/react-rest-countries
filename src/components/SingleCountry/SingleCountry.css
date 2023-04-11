@@ -1,0 +1,11 @@
+.single-country {
+  background-color: lightcyan;
+  margin: 20px;
+  padding: 10px;
+}
+
+.single-country img {
+  width: 50%;
+  height: 50%;
+  margin-top: 10px;
+}
